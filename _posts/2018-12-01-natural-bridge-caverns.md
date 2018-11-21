@@ -20,12 +20,12 @@ This is a summary of the event.
 ## Agenda
 
 * Saturday
-** 8:15 AM - Arrive
-** 9:00 AM - Doors Open
-** 8:00 PM - Doors Close
+   * 8:15 AM - Arrive
+   * 9:00 AM - Doors Open
+   * 8:00 PM - Doors Close
 * Sunday
-** 9:00 AM - Doors Open
-** 8:00 PM - Doors Close
+   * 9:00 AM - Doors Open
+   * 8:00 PM - Doors Close
 
 ## Build Theme
 - Winter Village
