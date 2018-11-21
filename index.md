@@ -5,7 +5,7 @@
 - Find out about the group.
 ### Activities
 - Archive of our past events.
-### [Calendar]({{ site.baseurl }}{% link calendar.md %})
+### [Calendar](calendar.md)
 - See what's coming up next.
 ### Contact Us
 - Questions? Comments? Want us to be at your next event?
