@@ -1,3 +1,7 @@
+---
+layout: post
+title: Activities
+---
 <ul>
   {% for post in site.posts %}
     <li>
