@@ -4,7 +4,7 @@
 ### About Us
 - Find out about the group.
 
-### Activities
+### [Activities](activities.md)
 - Archive of our past events.
 
 ### [Calendar](calendar.md)
