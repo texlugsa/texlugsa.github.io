@@ -18,7 +18,6 @@ This is a summary of the event.
 ## Photos
 
 
-
 ## Agenda
 
 * Saturday
@@ -33,8 +32,10 @@ This is a summary of the event.
 - Winter Village
 
 ## Attendance
+
 ### Fans of LEGO
 * Chris
 * Mark
+
 ### Public Attendance
 * TBD
