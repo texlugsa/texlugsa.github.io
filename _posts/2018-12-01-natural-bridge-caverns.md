@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Natural Bridge Caverns - December Layout"
 categories: [event]
 tags: [event, winter, village]
