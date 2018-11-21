@@ -19,4 +19,4 @@
 ### Social Media
 - Connect with us online!
 
-#### 2003 - 2018
+#### Building LEGO Moments since 2003!
