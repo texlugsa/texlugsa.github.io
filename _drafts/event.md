@@ -22,13 +22,13 @@ This is a summary of the event.
 ## Agenda
 
 * Friday
-** 12:00 PM - Setup
+   * 12:00 PM - Setup
 * Saturday
-** 9:00 AM - Open
-** 8:00 PM - Close
+   * 9:00 AM - Open
+   * 8:00 PM - Close
 * Sunday
-** 9:00 AM - Open
-** 8:00 PM - Close
+   * 9:00 AM - Open
+   * 8:00 PM - Close
 
 
 ## Build Theme
