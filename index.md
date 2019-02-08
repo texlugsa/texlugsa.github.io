@@ -1,13 +1,16 @@
+---
+title: Texas LEGO User Group - San Antonio Chapter
+---
 # Texas LEGO User Group
 ## San Antonio Chapter
 
 ### About Us
 - Find out about the group.
 
-### [Activities](activities.md)
+### [Activities]({% link activities.md %})
 - Archive of our past events.
 
-### [Calendar](calendar.md)
+### [Calendar]({% link calendar.md %})
 - See what's coming up next.
 
 ### Contact Us
@@ -15,6 +18,9 @@
 
 ### Donations
 - We accept used LEGO!
+
+### Resources
+- [Building Standards]({% link building_standards.md %})
 
 ### Social Media
 - Connect with us online!

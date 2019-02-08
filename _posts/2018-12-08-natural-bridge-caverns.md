@@ -1,5 +1,5 @@
 ---
-title: "Natural Bridge Caverns - December Layout - First Weekend"
+title: "Natural Bridge Caverns - December Layout - Second Weekend"
 categories: [event]
 tags: [event, winter, village]
 ---
