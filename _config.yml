@@ -1,4 +1,8 @@
-theme: jekyll-theme-architect
+remote_theme: "mmistakes/minimal-mistakes@4.15.2"
+
+plugins:
+  - jekyll-include-cache
 
 collections:
-  - building_standards
+  building_standards:
+    output: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2018-12-01 - Natural Bridge Caverns - December Layout - First Weekend"
+title: "2018-12-01 - Natural Bridge Caverns"
 categories: [event]
 tags: [event, winter, village]
 ---

@@ -1,5 +1,6 @@
 ---
-title: "Natural Bridge Caverns - December Layout - Second Weekend"
+layout: post
+title: "2018-12-08 - Natural Bridge Caverns"
 categories: [event]
 tags: [event, winter, village]
 ---
@@ -7,6 +8,7 @@ tags: [event, winter, village]
 # Event Summary
 
 ## Location
+
 - 26495 Natural Bridge Caverns Road
 - Natural Bridge Caverns, TX 78266
 
