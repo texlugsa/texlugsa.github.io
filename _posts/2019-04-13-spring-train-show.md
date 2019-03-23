@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Spring Train Show"
+title: "New Braunfels - Spring Train Show"
 categories: [event]
 tags: [event, train, show]
 ---
@@ -9,12 +9,13 @@ tags: [event, train, show]
 
 ## Location
 
-- Street
-- City, TX 78000
+- New Braunfels Civic Center
+- 375 S Castell Ave
+- New Braunfels, TX 78130
 
 ## Summary
 
-This is a summary of the event.
+Display a large train layout with all sorts of different custom my own creations (MOCs) and stardard LEGO sets.
 
 ## Photos
 
@@ -23,17 +24,17 @@ This is a summary of the event.
 ## Agenda
 
 - Friday
-  - 12:00 PM - Setup
+  - 1:00 PM - Setup
 - Saturday
-  - 9:00 AM - Open
-  - 8:00 PM - Close
+  - 10:00 AM - Open
+  - 5:00 PM - Close
 - Sunday
-  - 9:00 AM - Open
-  - 8:00 PM - Close
+  - 10:00 AM - Open
+  - 4:00 PM - Close
 
 ## Build Theme
 
-- Trains, City, etc.
+- Trains, City, Castle, etc.
 
 ## Attendance
 
