@@ -10,12 +10,12 @@ tags: [event]
 ## Location
 
 - San Antonio Central Library
-- 600 Soledad
+- 600 Soledad Street
 - San Antonio, TX 78205
 
 ## Summary
 
-We attending and setup a small booth and play area.
+We attending and setup a small booth and play area. While the kids built creations and added them to the display.
 
 ## Photos
 
@@ -37,9 +37,11 @@ We attending and setup a small booth and play area.
 
 - Mary
 - Chris M
-- Donald
 - Chris C
 - Vicky C
+- Jerry
+- Mark K
+- Mark W
 
 ### Public Attendance
 
