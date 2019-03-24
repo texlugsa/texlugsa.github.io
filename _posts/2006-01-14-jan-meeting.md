@@ -13,8 +13,7 @@ wordpress_id: 27
 wordpress_url: http://crmacd.biz/texlugsa/?p=27
 date: '2006-01-14 18:16:49 -0600'
 date_gmt: '2006-01-15 00:16:49 -0600'
-categories:
-- Notes
+categories: [meeting]
 tags: []
 comments: []
 ---

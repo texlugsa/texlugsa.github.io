@@ -15,8 +15,7 @@ wordpress_id: 335
 wordpress_url: http://www.texlugsa.org/blog/?p=335
 date: '2012-12-10 17:16:52 -0600'
 date_gmt: '2012-12-10 23:16:52 -0600'
-categories:
-- Events
+categories: [event]
 tags: []
 comments: []
 ---

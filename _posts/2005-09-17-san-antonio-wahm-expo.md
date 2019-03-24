@@ -13,8 +13,7 @@ wordpress_id: 22
 wordpress_url: http://crmacd.biz/texlugsa/?p=22
 date: '2005-09-17 11:00:00 -0500'
 date_gmt: '2005-09-17 17:00:00 -0500'
-categories:
-- Events
+categories: [event]
 tags: []
 comments: []
 ---

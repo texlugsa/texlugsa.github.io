@@ -14,8 +14,7 @@ wordpress_id: 318
 wordpress_url: http://www.texlugsa.org/blog/?p=318
 date: '2012-07-15 08:07:30 -0500'
 date_gmt: '2012-07-15 13:07:30 -0500'
-categories:
-- Meetings
+categories: [event]
 tags: []
 comments: []
 ---
