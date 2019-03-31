@@ -24,7 +24,7 @@ Display a large train layout with all sorts of different custom my own creations
 ## Agenda
 
 - Friday
-  - 1:00 PM - Setup
+  - 12:00 PM - Setup
 - Saturday
   - 10:00 AM - Open
   - 5:00 PM - Close
