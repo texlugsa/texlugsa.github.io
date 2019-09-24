@@ -7,7 +7,7 @@ The goal is build a parade. In order to do that everyone will make a parade floa
 
 ## Guidelines
 * Scale is minifigure
-* Spring is the theme
+* Theme of the float is determined by the event
 * The mock up is elevated by 2 bricks
 * 32 LEGO studs in length maximum including tow vehicle
 * 12 LEGO studs in width maximum
