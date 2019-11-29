@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "August 6, 2016: KONO 101 Back 2 School Expo"
+title: "August 6, 2016: KONO 101 Back2School Expo"
 categories: [event]
 tags: [event]
 ---
