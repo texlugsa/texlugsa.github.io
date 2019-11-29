@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Star Wars Minifigure Exchange"
+title: "April 13, 2019: Star Wars 20th Anniversary Minifigure Exchange"
 categories: [event]
 tags: [event, star wars, minifigure]
 ---
@@ -37,7 +37,14 @@ Come and bring your minifigures to exchange for a Star Wars minifigures.
 
 - Chris M
 - Mark K
+- Chris C
+- Vicky C
+- Stefan G
+- Victoria G
+- Sean M
+- Daniel M
 
 ### Public Attendance
 
-- TBD
+- 150 Adults
+- 150 Children
