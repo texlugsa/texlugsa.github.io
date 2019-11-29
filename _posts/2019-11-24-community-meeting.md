@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "November 24, 2019 Community Meeting"
+title: "November 24, 2019: Community Meeting"
 categories: [meeting]
 tags: [meeting]
 ---
