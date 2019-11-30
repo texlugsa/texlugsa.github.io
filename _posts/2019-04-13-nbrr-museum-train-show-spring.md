@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "New Braunfels - Spring Train Show"
+title: "New Braunfels Railroad Museum - Spring Train Show"
 categories: [event]
 tags: [event, train, show]
 ---
@@ -34,15 +34,29 @@ Display a large train layout with all sorts of different custom my own creations
 
 ## Build Theme
 
-- Trains, City, Castle, etc.
+- Trains, City, Castle, Elves, Modulars, etc.
 
 ## Attendance
 
 ### Fans of LEGO
 
-- First Last Initial
-- First Last Initial
+- Donald B
+- Mark K
+- Doc G
+- Mary D
+- Leia D
+- Chris M
+- Tamara P
+- Clayton P
+- Chance P
+- Ryan P
+- David S
+- Gil V
+- John R
+- Chris C
+- Vicky C
 
 ### Public Attendance
 
-- TBD
+- 1229 Adults
+- 765 Children
