@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "New Braunfels Railroad Museum - Spring Train Show"
+title: "April 13, 2019: New Braunfels Railroad Museum - Spring Train Show"
 categories: [event]
 tags: [event, train, show]
 ---
