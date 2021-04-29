@@ -44,9 +44,10 @@ We are making a basic train layout.
 - Brandi C
 - Mark W
 - Mark K
-- Tamera
+- Tamara
 - Ryan
 
 ### Public Attendance
 
-- 1200+
+- 1200+ Adults
+- 500+ Kids
