@@ -39,9 +39,14 @@ We are making a basic train layout.
 
 ### Fans of LEGO
 
-- First Last Initial
-- First Last Initial
+- Chris M
+- Chris C
+- Brandi C
+- Mark W
+- Mark K
+- Tamera
+- Ryan
 
 ### Public Attendance
 
-- TBD
+- 1200+
