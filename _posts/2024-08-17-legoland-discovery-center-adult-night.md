@@ -20,7 +20,7 @@ Adult Night: Cosplay Edition for Friday, August 30 at 7PM – 9PM
 
 Get your tickets to attend here:
 
-![Tickets](/assets/photos/2024/08/30/LDCSA Adult Night Cosplay Edition.png)
+![Tickets](/assets/photos/2024/08/30/LDCSA Adult Night Cosplay Edition.png){: width="50%"}
 
 ## Photos
 

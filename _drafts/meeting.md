@@ -16,6 +16,9 @@ tags: [meeting]
 
 This is a summary of the meeting.
 
+<!-- Use this to fit image within the screen -->
+![Image Description](/assets/photos/PHOTO/PATH.png){: width="50%"}
+
 ## Agenda
 
 - Topic One
