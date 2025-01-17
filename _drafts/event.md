@@ -16,6 +16,9 @@ tags: [event]
 
 This is a summary of the event.
 
+<!-- Use this to fit image within the screen -->
+![Image Description](/assets/photos/PHOTO/PATH.png){: width="50%"}
+
 ## Photos
 
 - TODO: Gallery of images.
