@@ -3,41 +3,237 @@ layout: default
 title: Seek and Find 2025
 weight: 98
 ---
-
-<input type="checkbox"> 1. R2-D2s: 6 <input type="text"><br>
-<input type="checkbox"> 2. Red Hulks: 1 <input type="text"><br>
-<input type="checkbox"> 3. Ice King: 1 <input type="text"><br>
-<input type="checkbox"> 4. Mrs. Clause: 1 <input type="text"><br>
-<input type="checkbox"> 5. Santa Clause: 3 <input type="text"><br>
-<input type="checkbox"> 6. Tree Man: 1 <input type="text"><br>
-<input type="checkbox"> 7. Giant Rock Men: 1 <input type="text"><br>
-<input type="checkbox"> 8. Giraffe Men: 2 <input type="text"><br>
-<input type="checkbox"> 9. Jalapeno Man: 1 <input type="text"><br>
-<input type="checkbox"> 10. Angry Birds Pigs: 3 <input type="text"><br>
-<input type="checkbox"> 11. Bb-8s: 2 <input type="text"><br>
-<input type="checkbox"> 12. Turtles: 4 <input type="text"><br>
-<input type="checkbox"> 13. Elves: 4 <input type="text"><br>
-<input type="checkbox"> 14. Abbatimal Snowmen: 4 <input type="text"><br>
-<input type="checkbox"> 15. Crusty the Clown: 3 <input type="text"><br>
-<input type="checkbox"> 16. Ghost: 4 <input type="text"><br>
-<input type="checkbox"> 17. Uni-kitty: 1 <input type="text"><br>
-<input type="checkbox"> 18. Rock Monster: 15 <input type="text"><br>
-<input type="checkbox"> 19. Old Robots: 2 <input type="text"><br>
-<input type="checkbox"> 20. Lady Bug Lady: 2 <input type="text"><br>
-<input type="checkbox"> 21. Shredder: 1 <input type="text"><br>
-<input type="checkbox"> 22. Soda Sippy: 1 <input type="text"><br>
-<input type="checkbox"> 23. Wookies: 6 <input type="text"><br>
-<input type="checkbox"> 24. Sponge Bob: 2 <input type="text"><br>
-<input type="checkbox"> 25. Homer Simpson: 1 <input type="text"><br>
-<input type="checkbox"> 26. Magpie Simpson: 1 <input type="text"><br>
-<input type="checkbox"> 27. Bart Simpson: 1 <input type="text"><br>
-<input type="checkbox"> 28. Lisa Sampson: 1 <input type="text"><br>
-<input type="checkbox"> 29. Marge Simpson: 2 <input type="text"><br>
-<input type="checkbox"> 30. Groundskeeper Willie: 1 <input type="text"><br>
-<input type="checkbox"> 31. Millhouse: 2 <input type="text"><br>
-<input type="checkbox"> 32. Ewok: 2 <input type="text"><br>
-<input type="checkbox"> 33. C3-Po: 1 <input type="text"><br>
-<input type="checkbox"> 34. Baby Groot: 2 <input type="text"><br>
-<input type="checkbox"> 35. Sheep: 1 <input type="text"><br>
-<input type="checkbox"> 36. Sebastian Crab: 1 <input type="text"><br>
-<input type="checkbox"> 37. Scooby Doo: 13 <input type="text"><br>
+<table>
+  <thead>
+    <tr>
+      <th>Check if found</th>
+      <th>See if you can find</th>
+      <th>Number to find</th>
+      <th>Where you found it?</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><input type="checkbox"></td>
+      <td>R2-D2s</td>
+      <td>6</td>
+      <td><input type="text"></td>
+    </tr>
+    <tr>
+      <td><input type="checkbox"></td>
+      <td>Red Hulks</td>
+      <td>1</td>
+      <td><input type="text"></td>
+    </tr>
+    <tr>
+      <td><input type="checkbox"></td>
+      <td>Ice King</td>
+      <td>1</td>
+      <td><input type="text"></td>
+    </tr>
+    <tr>
+      <td><input type="checkbox"></td>
+      <td>Mrs. Clause</td>
+      <td>1</td>
+      <td><input type="text"></td>
+    </tr>
+    <tr>
+      <td><input type="checkbox"></td>
+      <td>Santa Clause</td>
+      <td>3</td>
+      <td><input type="text"></td>
+    </tr>
+    <tr>
+      <td><input type="checkbox"></td>
+      <td>Tree Man</td>
+      <td>1</td>
+      <td><input type="text"></td>
+    </tr>
+    <tr>
+      <td><input type="checkbox"></td>
+      <td>Giant Rock Men</td>
+      <td>1</td>
+      <td><input type="text"></td>
+    </tr>
+    <tr>
+      <td><input type="checkbox"></td>
+      <td>Giraffe Men</td>
+      <td>2</td>
+      <td><input type="text"></td>
+    </tr>
+    <tr>
+      <td><input type="checkbox"></td>
+      <td>Jalapeno Man</td>
+      <td>1</td>
+      <td><input type="text"></td>
+    </tr>
+    <tr>
+      <td><input type="checkbox"></td>
+      <td>Angry Birds Pigs</td>
+      <td>3</td>
+      <td><input type="text"></td>
+    </tr>
+    <tr>
+      <td><input type="checkbox"></td>
+      <td>Bb-8s</td>
+      <td>2</td>
+      <td><input type="text"></td>
+    </tr>
+    <tr>
+      <td><input type="checkbox"></td>
+      <td>Turtles</td>
+      <td>4</td>
+      <td><input type="text"></td>
+    </tr>
+    <tr>
+      <td><input type="checkbox"></td>
+      <td>Elves</td>
+      <td>4</td>
+      <td><input type="text"></td>
+    </tr>
+    <tr>
+      <td><input type="checkbox"></td>
+      <td>Abbatimal Snowmen</td>
+      <td>4</td>
+      <td><input type="text"></td>
+    </tr>
+    <tr>
+      <td><input type="checkbox"></td>
+      <td>Crusty the Clown</td>
+      <td>3</td>
+      <td><input type="text"></td>
+    </tr>
+    <tr>
+      <td><input type="checkbox"></td>
+      <td>Ghost</td>
+      <td>4</td>
+      <td><input type="text"></td>
+    </tr>
+    <tr>
+      <td><input type="checkbox"></td>
+      <td>Uni-kitty</td>
+      <td>1</td>
+      <td><input type="text"></td>
+    </tr>
+    <tr>
+      <td><input type="checkbox"></td>
+      <td>Rock Monster</td>
+      <td>15</td>
+      <td><input type="text"></td>
+    </tr>
+    <tr>
+      <td><input type="checkbox"></td>
+      <td>Old Robots</td>
+      <td>2</td>
+      <td><input type="text"></td>
+    </tr>
+    <tr>
+      <td><input type="checkbox"></td>
+      <td>Lady Bug Lady</td>
+      <td>2</td>
+      <td><input type="text"></td>
+    </tr>
+    <tr>
+      <td><input type="checkbox"></td>
+      <td>Shredder</td>
+      <td>1</td>
+      <td><input type="text"></td>
+    </tr>
+    <tr>
+      <td><input type="checkbox"></td>
+      <td>Soda Sippy</td>
+      <td>1</td>
+      <td><input type="text"></td>
+    </tr>
+    <tr>
+      <td><input type="checkbox"></td>
+      <td>Wookies</td>
+      <td>6</td>
+      <td><input type="text"></td>
+    </tr>
+    <tr>
+      <td><input type="checkbox"></td>
+      <td>Sponge Bob</td>
+      <td>2</td>
+      <td><input type="text"></td>
+    </tr>
+    <tr>
+      <td><input type="checkbox"></td>
+      <td>Homer Simpson</td>
+      <td>1</td>
+      <td><input type="text"></td>
+    </tr>
+    <tr>
+      <td><input type="checkbox"></td>
+      <td>Magpie Simpson</td>
+      <td>1</td>
+      <td><input type="text"></td>
+    </tr>
+    <tr>
+      <td><input type="checkbox"></td>
+      <td>Bart Simpson</td>
+      <td>1</td>
+      <td><input type="text"></td>
+    </tr>
+    <tr>
+      <td><input type="checkbox"></td>
+      <td>Lisa Sampson</td>
+      <td>1</td>
+      <td><input type="text"></td>
+    </tr>
+    <tr>
+      <td><input type="checkbox"></td>
+      <td>Marge Simpson</td>
+      <td>2</td>
+      <td><input type="text"></td>
+    </tr>
+    <tr>
+      <td><input type="checkbox"></td>
+      <td>Groundskeeper Willie</td>
+      <td>1</td>
+      <td><input type="text"></td>
+    </tr>
+    <tr>
+      <td><input type="checkbox"></td>
+      <td>Millhouse</td>
+      <td>2</td>
+      <td><input type="text"></td>
+    </tr>
+    <tr>
+      <td><input type="checkbox"></td>
+      <td>Ewok</td>
+      <td>2</td>
+      <td><input type="text"></td>
+    </tr>
+    <tr>
+      <td><input type="checkbox"></td>
+      <td>C3-Po</td>
+      <td>1</td>
+      <td><input type="text"></td>
+    </tr>
+    <tr>
+      <td><input type="checkbox"></td>
+      <td>Baby Groot</td>
+      <td>2</td>
+      <td><input type="text"></td>
+    </tr>
+    <tr>
+      <td><input type="checkbox"></td>
+      <td>Sheep</td>
+      <td>1</td>
+      <td><input type="text"></td>
+    </tr>
+    <tr>
+      <td><input type="checkbox"></td>
+      <td>Sebastian Crab</td>
+      <td>1</td>
+      <td><input type="text"></td>
+    </tr>
+    <tr>
+      <td><input type="checkbox"></td>
+      <td>Scooby Doo</td>
+      <td>13</td>
+      <td><input type="text"></td>
+    </tr>
+  </tbody>
+</table>
