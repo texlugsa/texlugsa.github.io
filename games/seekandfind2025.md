@@ -4,6 +4,12 @@ title: Seek and Find 2025
 weight: 98
 ---
 <table>
+  <colgroup>
+    <col style="width: 10%;">
+    <col style="width: 40%;">
+    <col style="width: 10%;">
+    <col style="width: 40%;">
+  </colgroup>
   <thead>
     <tr>
       <th>Check if found</th>
