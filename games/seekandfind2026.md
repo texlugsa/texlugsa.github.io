@@ -3,6 +3,7 @@ layout: default
 title: Seek and Find 2026
 weight: 98
 ---
+See if you can find the following minifigures in the display!
 <table>
   <colgroup>
     <col style="width: 20%;">
@@ -17,11 +18,11 @@ weight: 98
   <tbody>
     <tr>
       <td><input type="checkbox"></td>
-      <td>R2-D2s</td>
+      <td>R2-D2</td>
     </tr>
     <tr>
       <td><input type="checkbox"></td>
-      <td>Red Hulks</td>
+      <td>Red Hulk</td>
     </tr>
     <tr>
       <td><input type="checkbox"></td>
@@ -69,7 +70,7 @@ weight: 98
     </tr>
     <tr>
       <td><input type="checkbox"></td>
-      <td>Abbatimal Snowmen</td>
+      <td>Abominable Snowmen</td>
     </tr>
     <tr>
       <td><input type="checkbox"></td>
@@ -81,7 +82,7 @@ weight: 98
     </tr>
     <tr>
       <td><input type="checkbox"></td>
-      <td>Uni-kitty</td>
+      <td>UniKitty!</td>
     </tr>
     <tr>
       <td><input type="checkbox"></td>
@@ -105,7 +106,7 @@ weight: 98
     </tr>
     <tr>
       <td><input type="checkbox"></td>
-      <td>Wookies</td>
+      <td>Wookie</td>
     </tr>
     <tr>
       <td><input type="checkbox"></td>
@@ -117,7 +118,7 @@ weight: 98
     </tr>
     <tr>
       <td><input type="checkbox"></td>
-      <td>Magpie Simpson</td>
+      <td>Maggie Simpson</td>
     </tr>
     <tr>
       <td><input type="checkbox"></td>
@@ -145,7 +146,7 @@ weight: 98
     </tr>
     <tr>
       <td><input type="checkbox"></td>
-      <td>C3-Po</td>
+      <td>C3-PO</td>
     </tr>
     <tr>
       <td><input type="checkbox"></td>
@@ -161,7 +162,7 @@ weight: 98
     </tr>
     <tr>
       <td><input type="checkbox"></td>
-      <td>Scooby Doo</td>
+      <td>Scooby-Doo</td>
     </tr>
   </tbody>
 </table>
