@@ -63,7 +63,7 @@ comments:
             <div class="card shadow border-0 bg-primary bg-gradient">
                 <div class="card-body text-white">
                     <div class="d-flex align-items-center mb-4">
-                        <img src="https://via.placeholder.com/100" alt="Avatar" class="rounded-circle mr-3" width="100" height="100">
+<!--                        <img src="https://via.placeholder.com/100" alt="Avatar" class="rounded-circle mr-3" width="100" height="100">
                         <div class="ms-3">
                             <h4 class="card-title fs-3 mb-0">Christopher MacDougald</h4>
                             <small class="text-white">Founder</small>
