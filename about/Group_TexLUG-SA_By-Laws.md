@@ -2,7 +2,7 @@
 layout: default
 title: TexLUG-SA Code of Conduct
 ---
-**TEXAS LEGO® USERS GROUP \- SAN ANTONIO (TexLUG-SA)**
+**TEXAS LEGO® User Group \- SAN ANTONIO (TexLUG-SA)**
 
 **BY-LAWS**
 
