@@ -10,7 +10,8 @@ title: About
             <p class="lead">
                 TexLUG is short for Texas LEGO User Group. SA is short for the San Antonio chapter. In a nutshell, we’re a loose-knit group of folks living in and around San Antonio, Texas bound together by a single trait: our love of the LEGO building brick. Many of us are adults who simply never lost sight of this facet of our childhood. Others are adults who have rediscovered the fun they had playing and building with LEGO. And a few are still in their childhood, discovering new ways to further their enjoyment of LEGO while sharing a surprisingly sophisticated level of building ideas of their own. 
                 <span class="text-danger">We welcome LEGO enthusiasts of all ages. Anyone under 18 must have an adult present at ALL times.</span>
-            </p>
+            <br><a href="/assets/pdfs/Group_TexLUG-SA_By-Laws.pdf">Our TexLUG-SA By-Laws</a>
+			</p>
         </div>
     </div>
     <div class="row my-4">
