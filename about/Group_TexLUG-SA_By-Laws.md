@@ -1,6 +1,6 @@
 ---
 layout: default
-title: TexLUG-SA Code of Conduct
+title: TexLUG-SA By-Laws
 ---
 **Texas LEGO® User Group \- San Antonio (TexLUG-SA)**
 
