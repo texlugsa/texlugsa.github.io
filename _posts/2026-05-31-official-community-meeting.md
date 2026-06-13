@@ -17,7 +17,7 @@ The Texas LEGO® User Group - San Antonio (TexLUG-SA) held its fourth in-person 
 
 ## Attendance
 
-AFOLs: 12
+<span title="Adult Fan of Lego">AFOL</span>s: 12
 
 ## What We Enjoyed Most
 
