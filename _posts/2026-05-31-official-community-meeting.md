@@ -18,3 +18,7 @@ The Texas LEGO® User Group - San Antonio (TexLUG-SA) held its fourth in-person 
 ## Attendance
 
 AFOLs: 12
+
+## What We Enjoyed the Most
+
+Our favorite part of the Community Meeting for this month was getting together and complementing a few Member's creations they are preparing for Brick Rodeo 2026 and one Member sharing her modifications of the new LEGO® themed working clock set, plus the sharing of the latest purchases, creations and builds as we go "Around the LUG" at the end of the Community Meeting.
