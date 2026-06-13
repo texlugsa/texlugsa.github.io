@@ -1,6 +1,10 @@
-TEXAS LEGO® USERS GROUP – SAN ANTONIO (TexLUG-SA) 
+---
+layout: default
+title: TexLUG-SA Code of Conduct
+---
+**TEXAS LEGO® USERS GROUP \- SAN ANTONIO (TexLUG-SA)**
 
-BY-LAWS
+**BY-LAWS**
 
 PURPOSE
 
