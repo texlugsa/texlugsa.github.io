@@ -9,7 +9,7 @@ tags: [meeting]
 
 ## Location
 
-<a href="https://krystlesbrickshop.com>Krystle's Brick Shop in Rolling Oaks Mall</a>
+[Krystle's Brick Shop in Rolling Oaks Mall](https://krystlesbrickshop.com)
 
 ## Summary
 
