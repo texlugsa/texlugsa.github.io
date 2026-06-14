@@ -17,7 +17,6 @@ tags: [meeting]
 
 ## Agenda
 
-- LUGBULK 2020
 - DoSeum High Event
 - Bilio Tech West 2020
 - Holiday Party 2019
