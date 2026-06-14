@@ -20,7 +20,6 @@ We had our monthly December meeting where we discussed the news from the LAN, en
 - news from the LAN
 - Annual RLUG report
 - Wrap-up a winter village of event
-- LUGbulk 2025
 - Krystal's spring theme
 - Bricks and Minifigs Spring Theme
 - Spring train show
