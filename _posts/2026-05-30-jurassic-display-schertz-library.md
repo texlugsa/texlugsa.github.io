@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Jurassic Display at Schertz Public Library"
-categories: [event]
+categories: [event][jurassic]
 tags: [event]
 ---
 
