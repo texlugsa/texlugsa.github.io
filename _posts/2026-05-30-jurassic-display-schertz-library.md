@@ -17,7 +17,7 @@ Four TexLUG-SA Members participated in the Schertz Public Library hosted Summer 
 
 ## Photos
 
-[Link to Facebook Photo Gallery](https://www.facebook.com/media/set/?vanity=TexLUGSA&set=a.1332238112337406)
+[Link to Facebook Photo Gallery - 2026-05-30 TexLUG-SA Event at Schertz Public Library](https://www.facebook.com/media/set/?vanity=TexLUGSA&set=a.1332238112337406)
 
 ## Agenda
 
