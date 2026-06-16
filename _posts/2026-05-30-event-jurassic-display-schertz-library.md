@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "May 30, 2026 - Jurassic Display at Schertz Public Library"
+title: "Jurassic Display at Schertz Public Library"
 categories: [event]
 tags: [event, jurassic]
 ---
