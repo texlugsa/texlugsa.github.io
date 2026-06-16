@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "TexLUG-SA Display at NBRR Museum hosted Spring Train Show 2026"
+title: "NBRR Museum hosted Spring Train Show 2026"
 categories: [event]
 tags: [event, train]
 ---
@@ -20,11 +20,13 @@ Thirteen Members of our Group participated in the New Braunfels Museum hosted Sp
 
 ## Photos
 
-[Link to Facebook Photo Gallery - ](https://www.facebook.com/media/set/?set=a.1305938628300688&type=3)
+[Link to Facebook Photos](https://www.facebook.com/media/set/?set=a.1305938628300688&type=3)
 
 ## Agenda
 
-Setup for the Event is on Friday afternoon for roughly 6 hours, and the Event runs 2 days, 7 hours on Saturday and 6 hours on Sunday.
+Setup: Friday afternoon for roughly 6 hours
+Saturday: 7 hours
+Sunday: 6 hours
 
 ## Build Theme
 
