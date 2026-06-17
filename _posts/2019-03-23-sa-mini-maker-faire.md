@@ -1,25 +1,29 @@
 ---
 layout: default
-title: "SA Mini Maker Faire"
+title: "San Antonio Mini Maker Faire"
 categories: [event]
-tags: [event]
+tags: [event, motion]
 ---
 
 # Event Summary
 
 ## Location
 
-- San Antonio Central Library
-- 600 Soledad Street
-- San Antonio, TX 78205
+San Antonio Public Library, Central, 600 Soledad St., San Antonio, TX 78205
 
 ## Summary
 
-We attending and setup a small booth and play area. While the kids built creations and added them to the display.
+We setup a small booth and play area. While the kids built creations and added them to the display.
+
+## Links
+
+[Link to Facebook - Maker Faire SA](https://www.facebook.com/makerfairesa/)
+[Link to Maker Faire](https://sanantonio.makerfaire.com/)
+
 
 ## Photos
 
-- TODO: Photo Gallery
+[Link to Facebook Photos](https://www.facebook.com/media/set/?set=a.1328818126012738&type=3)
 
 ## Agenda
 
@@ -35,14 +39,8 @@ We attending and setup a small booth and play area. While the kids built creatio
 
 ### Fans of LEGO
 
-- Mary
-- Chris M
-- Chris C
-- Vicky C
-- Jerry
-- Mark K
-- Mark W
+Attendees: Chris C - Lead, Vicky C, Mark K, Mark W, Mary D, Leia D (TFOL)
 
 ### Public Attendance
 
-- TBD
+Kids 760 Teens + Adults 13+ 1040

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "March End of Month Meeting"
+title: "March 2019 Community Meeting"
 categories: [meeting]
 tags: [meeting]
 ---
@@ -14,7 +14,7 @@ tags: [meeting]
 
 ## Summary
 
-We got together and discussed future things for the group.
+The Group discussed whether or not to participate in the Event next month, a new venue for the Group. Talked about potential displays for the public and bringing our Play Brick Area. Additionally, welcomed a potential new Member who brought MOC to show off his vehicle building skills, the truck even had suspension built-in. The leader discussed the continuation of support at Kids Fun Day at Train Museum.
 
 ## Agenda
 
@@ -31,19 +31,4 @@ We got together and discussed future things for the group.
 
 ### Fans of LEGO
 
-- Mark K
-- John R
-- Mary D
-- Gloria
-- Donald
-- Rebecca
-- Doc
-- David S
-- Tamara
-- Chance
-- Pete D
-- Leia D
-- Chris C
-- Vicky C
-- Gil
-- Chris M
+AFOLs 12

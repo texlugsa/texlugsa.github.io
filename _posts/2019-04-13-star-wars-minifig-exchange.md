@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "April 13, 2019: Star Wars 20th Anniversary Minifigure Exchange"
+title: "Star Wars 20th Anniversary Minifigure Exchange"
 categories: [event]
 tags: [event, star wars, minifigure]
 ---
@@ -9,17 +9,15 @@ tags: [event, star wars, minifigure]
 
 ## Location
 
-- Walmart Supercenter
-- 11210 Potranco Rd
-- San Antonio, TX 78253
+Walmart Supercenter, 11210 Potranco Rd, San Antonio, TX 78253
 
 ## Summary
 
-Come and bring your minifigures to exchange for a Star Wars minifigures.
+TexLUG-SA Members with Big Orange Productions Representative, Caito Taylor distributed 350 Special Edition Star Wars Posters provided by Alyssa Harrington, Manager, Americas Market Integration & Engagement
 
 ## Photos
 
-- TODO: Gallery of images.
+[Link to Facebook Photos](https://www.facebook.com/media/set/?set=a.2674209402708608&type=3)
 
 ## Agenda
 
@@ -35,14 +33,7 @@ Come and bring your minifigures to exchange for a Star Wars minifigures.
 
 ### Fans of LEGO
 
-- Chris M
-- Mark K
-- Chris C
-- Vicky C
-- Stefan G
-- Victoria G
-- Sean M
-- Daniel M
+Attendees: Chris M, Mark K, Chris C, VIcky C, Stefan G, Sean M, (KFOL), Daniel M, (KFOL) Guest: Stefan’s Mom - Victoria
 
 ### Public Attendance
 

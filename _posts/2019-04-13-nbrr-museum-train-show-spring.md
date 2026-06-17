@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "April 13, 2019: NBRR Museum - Spring Train Show"
+title: "NBRR Museum - Spring Train Show"
 categories: [event]
 tags: [event, train, show]
 ---
@@ -9,9 +9,7 @@ tags: [event, train, show]
 
 ## Location
 
-- New Braunfels Civic Center
-- 375 S Castell Ave
-- New Braunfels, TX 78130
+New Braunfels Convention & Visitors Bureau, 390 Seguin Ave, New Braunfels, TX 78130
 
 ## Summary
 
@@ -19,7 +17,7 @@ Display a large train layout with all sorts of different custom my own creations
 
 ## Photos
 
-- TODO: Gallery of images.
+[Link to Facebook Photos](https://www.facebook.com/pg/TexLUGSA/photos/?tab=album&album_id=2657926854336863)
 
 ## Agenda
 
@@ -40,21 +38,7 @@ Display a large train layout with all sorts of different custom my own creations
 
 ### Fans of LEGO
 
-- Donald B
-- Mark K
-- Doc G
-- Mary D
-- Leia D
-- Chris M
-- Tamara P
-- Clayton P
-- Chance P
-- Ryan P
-- David S
-- Gil V
-- John R
-- Chris C
-- Vicky C
+Attendees: Donald B, John R, Mark K, Doc G, Tamara P, Chris C, Vicky C, Chris M, Mary D, Leia D (TFOL), David S, Gil V, Clayton P, Chance P
 
 ### Public Attendance
 
