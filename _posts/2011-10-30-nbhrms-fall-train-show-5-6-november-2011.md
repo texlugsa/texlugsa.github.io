@@ -1,23 +1,8 @@
 ---
-layout: post
-status: publish
-published: true
-title: NBHRMS Fall Train Show 5-6 November 2011
-author:
-  display_name: sgarcia
-  login: sgarcia
-  email: sastrei87@yahoo.com
-  url: ''
-author_login: sgarcia
-author_email: sastrei87@yahoo.com
-wordpress_id: 300
-wordpress_url: http://www.texlugsa.org/blog/?p=300
-date: '2011-10-30 01:30:04 -0500'
-date_gmt: '2011-10-30 06:30:04 -0500'
-categories:
-- Meetings
-tags: []
-comments: []
+layout: default
+title: "NBHRMS Fall Train Show 5-6 November 2011"
+categories: [meeting]
+tags: [meeting]
 ---
 <p>Our next display will be at the New Braunfels Historical Railroad Modelers Society fall train show!<br />
 Nov 5 - 6, 2011 at the <a href="http://www.ci.new-braunfels.tx.us/index.aspx?NID=840">New Braunfels Civic Center</a>.<br />
