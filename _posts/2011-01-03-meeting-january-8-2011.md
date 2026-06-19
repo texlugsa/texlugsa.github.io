@@ -1,23 +1,8 @@
 ---
-layout: post
-status: publish
-published: true
-title: Meeting January 8, 2011
-author:
-  display_name: sgarcia
-  login: sgarcia
-  email: sastrei87@yahoo.com
-  url: ''
-author_login: sgarcia
-author_email: sastrei87@yahoo.com
-wordpress_id: 248
-wordpress_url: http://www.texlugsa.org/blog/?p=248
-date: '2011-01-03 05:32:52 -0600'
-date_gmt: '2011-01-03 11:32:52 -0600'
-categories:
-- Meetings
-tags: []
-comments: []
+layout: default
+title: "Meeting January 8, 2011"
+categories: [meeting]
+tags: [meeting]
 ---
 <p>Who: Fans of LEGO all ages.<br />
 What: Texas LEGO User Group &ndash; San Antonio Chapter Meeting<br />
