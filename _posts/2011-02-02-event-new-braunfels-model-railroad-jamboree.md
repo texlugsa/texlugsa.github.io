@@ -1,25 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
-title: Event - New Braunfels Model Railroad Jamboree
-author:
-  display_name: Chris
-  login: crmacd
-  email: crmacd@gmail.com
-  url: http://www.crmacd.com/
-author_login: crmacd
-author_email: crmacd@gmail.com
-author_url: http://www.crmacd.com/
-wordpress_id: 256
-wordpress_url: http://www.texlugsa.org/blog/?p=256
-date: '2011-02-02 00:28:23 -0600'
-date_gmt: '2011-02-02 06:28:23 -0600'
+layout: default
+title: "New Braunfels Model Railroad Jamboree"
 categories:
 - Events
 - News
-tags: []
-comments: []
+tags: [event, news]
 ---
 <p>New Braunfels Model Railroad Jamboree<br />
 Saturday, March 26, 2011   10 a.m. to 5:00 p.m.<br />
