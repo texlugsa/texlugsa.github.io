@@ -1,23 +1,8 @@
 ---
-layout: post
-status: publish
-published: true
-title: SAMRA 36th Annual Jamboree - Jan 28-29, 2012
-author:
-  display_name: sgarcia
-  login: sgarcia
-  email: sastrei87@yahoo.com
-  url: ''
-author_login: sgarcia
-author_email: sastrei87@yahoo.com
-wordpress_id: 304
-wordpress_url: http://www.texlugsa.org/blog/?p=304
-date: '2011-12-13 02:08:45 -0600'
-date_gmt: '2011-12-13 08:08:45 -0600'
-categories:
-- Events
-tags: []
-comments: []
+layout: default
+title: "SAMRA 36th Annual Jamboree - Jan 28-29, 2012"
+categories: [event]
+tags: [event]
 ---
 <p>Our next display will be at the SAMRA 36th Annual Jamboree!<br />
 Jan 28-29, 2012 at the <a href="http://www.liveoaktx.net/display_main.php?pg=civic_center">Live Oak Civic Center</a><br />
