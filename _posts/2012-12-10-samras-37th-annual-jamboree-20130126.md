@@ -1,6 +1,6 @@
 ---
 layout: post
-title: :SAMRA's 37th Annual Jamboree"
+title: "SAMRA's 37th Annual Jamboree"
 categories: [event]
 tags: [event]
 ---
