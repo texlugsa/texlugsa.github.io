@@ -1,31 +1,8 @@
 ---
-layout: post
-status: publish
-published: true
-title: Meeting - 17 Sep 2011 - Brackenridge Park
-author:
-  display_name: sgarcia
-  login: sgarcia
-  email: sastrei87@yahoo.com
-  url: ''
-author_login: sgarcia
-author_email: sastrei87@yahoo.com
-wordpress_id: 294
-wordpress_url: http://www.texlugsa.org/blog/?p=294
-date: '2011-09-04 11:36:36 -0500'
-date_gmt: '2011-09-04 16:36:36 -0500'
-categories:
-- Meetings
-tags: []
-comments:
-- id: 76
-  author: sgarcia
-  author_email: sastrei87@yahoo.com
-  author_url: ''
-  date: '2011-09-17 10:57:14 -0500'
-  date_gmt: '2011-09-17 15:57:14 -0500'
-  content: Unfortunately, due to an awareness walk in Brackenridge Park, today's meeting
-    has been canceled due to lack of parking.
+layout: default
+title: "Meeting - 17 Sep 2011 - Brackenridge Park"
+categories: [meeting]
+tags: [meeting]
 ---
 <p>Who: Fans of LEGO all ages<br />
 What: Texas LEGO User Group &ndash; San Antonio Chapter Meeting<br />
