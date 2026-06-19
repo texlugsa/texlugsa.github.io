@@ -1,24 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
-title: BrickFiesta a success!
-author:
-  display_name: sgarcia
-  login: sgarcia
-  email: sastrei87@yahoo.com
-  url: ''
-author_login: sgarcia
-author_email: sastrei87@yahoo.com
-wordpress_id: 271
-wordpress_url: http://www.texlugsa.org/blog/?p=271
-date: '2011-07-04 13:28:42 -0500'
-date_gmt: '2011-07-04 18:28:42 -0500'
+layout: default
+title: "BrickFiesta a success!"
 categories:
 - Events
 tags:
 - brickfiesta
-comments: []
 ---
 <p>BrickFiesta was an enormous success, and a huge thank you goes out to everyone who contributed and attended!  We've located some of the news articles and photos from the event are being added to the BrickFiesta Flickr pool.</p>
 <p><a href="http://www.kvue.com/news/Austin-LEGO-convention-draws-crowd-during-holiday-weekend-124910694.html">KVUE Austin</a></p>
