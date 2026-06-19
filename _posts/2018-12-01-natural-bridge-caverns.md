@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2018-12-01 - Natural Bridge Caverns"
+title: "Natural Bridge Caverns"
 categories: [event]
 tags: [event, winter, village]
 ---
@@ -11,12 +11,6 @@ tags: [event, winter, village]
 
 - 26495 Natural Bridge Caverns Road
 - Natural Bridge Caverns, TX 78266
-
-## Summary
-
-This is a summary of the event.
-
-## Photos
 
 ## Agenda
 
