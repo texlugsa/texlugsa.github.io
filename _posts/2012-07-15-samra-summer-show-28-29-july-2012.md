@@ -1,22 +1,8 @@
 ---
-layout: post
-status: publish
-published: true
-title: SAMRA Summer Show 28-29 July 2012
-author:
-  display_name: sgarcia
-  login: sgarcia
-  email: sastrei87@yahoo.com
-  url: ''
-author_login: sgarcia
-author_email: sastrei87@yahoo.com
-wordpress_id: 318
-wordpress_url: http://www.texlugsa.org/blog/?p=318
-date: '2012-07-15 08:07:30 -0500'
-date_gmt: '2012-07-15 13:07:30 -0500'
+layout: default
+title: "SAMRA Summer Show 28-29 July 2012"
 categories: [event]
-tags: []
-comments: []
+tags: [event]
 ---
 <p>Our next display will be at the SAMRA Summer Show!<br />
 Jul 28 - 29, 2012 at the <a href="http://www.liveoaktx.net/display_main.php?pg=civic_center">Live Oak Civic Center</a><br />
