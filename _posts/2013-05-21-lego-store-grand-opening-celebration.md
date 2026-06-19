@@ -1,22 +1,8 @@
 ---
-layout: post
-status: publish
-published: true
-title: LEGO&reg; Store Grand Opening Celebration
-author:
-  display_name: sgarcia
-  login: sgarcia
-  email: sastrei87@yahoo.com
-  url: ''
-author_login: sgarcia
-author_email: sastrei87@yahoo.com
-wordpress_id: 351
-wordpress_url: http://www.texlugsa.org/blog/?p=351
-date: '2013-05-21 19:38:45 -0500'
-date_gmt: '2013-05-22 00:38:45 -0500'
+layout: default
+title: "LEGO Store Grand Opening Celebration"
 categories: [event]
-tags: []
-comments: []
+tags: [event]
 ---
 <p>You're invited to the LEGO&reg; Store Grand Opening Celebration at the North Star Mall!</p>
 <p>Help a real LEGO&reg; Master Builder construct an 8-foot tall model of R2-D2&trade; completely out of LEGO bricks! Plus, visit the LEGO Store during the building event for exclusive in-store offers this weekend only!</p>
