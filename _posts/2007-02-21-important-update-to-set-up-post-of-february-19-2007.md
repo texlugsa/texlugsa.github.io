@@ -1,23 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
+layout: default
 title: Important Update to Set-Up Post of February 19, 2007
-author:
-  display_name: houghpt
-  login: houghpt
-  email: ''
-  url: ''
-author_login: houghpt
-wordpress_id: 54
-wordpress_url: http://www.texlugsa.org/2007/02/21/important-update-to-set-up-post-of-february-19-2007/
-date: '2007-02-21 14:40:28 -0600'
-date_gmt: '2007-02-21 19:40:28 -0600'
 categories:
 - Events
 - News
 tags: []
-comments: []
 ---
 <p>I called Tricia to get information on admission for the general public, and it's a good thing I did!!</p>
 <p>IMPORTANT -- IMPORTANT -- IMPORTANT -- IMPORTANT</p>
