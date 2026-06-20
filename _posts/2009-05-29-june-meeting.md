@@ -1,24 +1,9 @@
 ---
-layout: post
-status: publish
-published: true
+layout: default
 title: June Meeting...
-author:
-  display_name: Texas LEGO User Group San Antonio
-  login: texlugsa
-  email: texlugsa@gmail.com
-  url: http://www.texlugsa.org/
-author_login: texlugsa
-author_email: texlugsa@gmail.com
-author_url: http://www.texlugsa.org/
-wordpress_id: 114
-wordpress_url: http://www.texlugsa.org/blog/?p=114
-date: '2009-05-29 01:01:18 -0500'
-date_gmt: '2009-05-29 06:01:18 -0500'
 categories:
 - Meetings
 tags: []
-comments: []
 ---
 <p>We'll be meeting June 14 at Fuddruckers on I-10 and Wurzbach at 2 PM.</p>
 <p><!-- Google Maps Element Code --><br />
