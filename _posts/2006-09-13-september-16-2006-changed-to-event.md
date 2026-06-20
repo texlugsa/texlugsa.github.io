@@ -4,7 +4,7 @@ title: September 16, 2006 - Changed to Event...
 categories:
 - Events
 - Meetings
-tags: []
+tags: [meeting, event]
 ---
 <p><strike>When: Saturday  September 16, 2006 12:30 PM - Till whenever.</strike></p>
 <p><strike>Where: <a title="1901 Weil Road in Marion, Texas 78124" href="http://maps.google.com/maps?f=q&hl=en&q=1901+Weil+Road,+Marion,+Texas+78124&ll=29.594058,-98.200607&spn=0.017352,0.036607&om=1">Goerke&sbquo;&Auml;&ocirc;s Country Tavern</a></strike></p>
