@@ -3,7 +3,7 @@ layout: default
 title: June Meeting...
 categories:
 - Meetings
-tags: []
+tags: [meeting]
 ---
 <p>We'll be meeting June 14 at Fuddruckers on I-10 and Wurzbach at 2 PM.</p>
 <p><!-- Google Maps Element Code --><br />
