@@ -2,7 +2,7 @@
 layout: default
 title: San Antonio WAHM Expo
 categories: [event]
-tags: []
+tags: [event]
 ---
 <p><strong>What:</strong><br />
 San Antonio WAHM Expo<br />
