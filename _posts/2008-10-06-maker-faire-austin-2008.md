@@ -1,7 +1,5 @@
 ---
-layout: post
-status: publish
-published: true
+layout: default
 title: Maker Faire Austin 2008
 categories:
 - Events
