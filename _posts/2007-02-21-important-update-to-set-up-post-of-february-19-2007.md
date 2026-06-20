@@ -4,7 +4,7 @@ title: Important Update to Set-Up Post of February 19, 2007
 categories:
 - Events
 - News
-tags: []
+tags: [event]
 ---
 <p>I called Tricia to get information on admission for the general public, and it's a good thing I did!!</p>
 <p>IMPORTANT -- IMPORTANT -- IMPORTANT -- IMPORTANT</p>
