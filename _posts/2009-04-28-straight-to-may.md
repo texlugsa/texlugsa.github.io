@@ -3,7 +3,7 @@ layout: default
 title: Straight to May...
 categories:
 - Meetings
-tags: []
+tags: [meeting]
 ---
 <p>Hey everyone!</p>
 <p>Our meeting for the Month of May will be on the 3rd at 2pm. Same Place Fuddruckers~</p>
