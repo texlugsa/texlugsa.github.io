@@ -1,7 +1,5 @@
 ---
-layout: post
-status: publish
-published: true
+layout: default
 title: Post Maker Faire...
 categories:
 - Events
