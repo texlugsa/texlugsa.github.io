@@ -4,7 +4,7 @@ title: TexLUG Fall Meeting - Public Event
 categories:
 - Events
 - Meetings
-tags: []
+tags: [meeting, event]
 ---
 <p>So the statewide group is meeting October 7-8th, 2006.</p>
 <p>Public times are 10-5 and 1-5 respectively.</p>
