@@ -3,7 +3,7 @@ layout: default
 title: 'Meeting: Saturday, February 17, 2006'
 categories:
 - Meetings
-tags: []
+tags: [meeting]
 ---
 <p>When: Saturday, February 17, 2006 - 1:00 PM</p>
 <p>Where: Red Robin at the Forum</p>
