@@ -1,24 +1,9 @@
 ---
-layout: post
-status: publish
-published: true
+layout: default
 title: May Meeting...
-author:
-  display_name: Texas LEGO User Group San Antonio
-  login: texlugsa
-  email: texlugsa@gmail.com
-  url: http://www.texlugsa.org/
-author_login: texlugsa
-author_email: texlugsa@gmail.com
-author_url: http://www.texlugsa.org/
-wordpress_id: 57
-wordpress_url: http://www.texlugsa.org/2007/05/09/may-meeting/
-date: '2007-05-09 18:22:57 -0500'
-date_gmt: '2007-05-09 23:22:57 -0500'
 categories:
 - Meetings
 tags: []
-comments: []
 ---
 <p>What: TexLUG Meeting</p>
 <p>When: May 19, 2007 - 1PM</p>
