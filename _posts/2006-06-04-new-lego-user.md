@@ -3,7 +3,7 @@ layout: default
 title: New LEGO User
 categories:
 - News
-tags: []
+tags: [news]
 ---
 <p>Sean Luke MacDougald<br />
 Born: June 1st, 2006 7:45AM<br />
