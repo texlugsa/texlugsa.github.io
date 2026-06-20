@@ -1,19 +1,6 @@
 ---
-layout: post
-status: publish
-published: true
+layout: default
 title: SAMRA Model Railroad Jamboree - Jan 29-30, 2011
-author:
-  display_name: sgarcia
-  login: sgarcia
-  email: sastrei87@yahoo.com
-  url: ''
-author_login: sgarcia
-author_email: sastrei87@yahoo.com
-wordpress_id: 239
-wordpress_url: http://www.texlugsa.org/blog/?p=239
-date: '2010-12-24 03:43:10 -0600'
-date_gmt: '2010-12-24 09:43:10 -0600'
 categories:
 - Events
 - Meetings
@@ -22,7 +9,6 @@ tags:
 - lego
 - texlug
 - samra
-comments: []
 ---
 <p>Spread the word during Christmas and New Years!</p>
 <p>Our next display will be at the 35th Annual Model Railroad Jamboree!<br />
