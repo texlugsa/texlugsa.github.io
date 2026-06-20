@@ -4,7 +4,7 @@ title: HBCE - Set-Up on Friday March 2!
 categories:
 - Events
 - News
-tags: []
+tags: [event]
 ---
 <p>Only 12 Days Left Until HBCE! Official Set-Up is on Friday, March 2, 2007 from 1PM to 9PM!</p>
 <p>We will be setting up our display for the Healthy Baby and Child Expo at the Henry B. Gonzalez Convention Center in San Antonio on Friday, March 2, 2007. The HBCE Staff allows setup between the hours of 1PM and 9PM. However, to my knowledge you can still bring stuff in on Saturday as a lot of vendors did this last year. Chris M, please issue any corrections on this that you know of. (Chris: Yes but you must be setup before the event opens.)</p>
