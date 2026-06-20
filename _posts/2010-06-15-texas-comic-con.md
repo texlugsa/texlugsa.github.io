@@ -3,8 +3,7 @@ layout: default
 title: Texas Comic Con
 categories:
 - Events
-- Meetings
-tags: []
+tags: [event]
 ---
 <p>Texas Comic Con<br />
 June 18th - 20th, 2010<br />
