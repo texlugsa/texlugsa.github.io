@@ -1,24 +1,9 @@
 ---
-layout: post
-status: publish
-published: true
+layout: default
 title: Healthy Baby and Child Expo 2008...
-author:
-  display_name: Texas LEGO User Group San Antonio
-  login: texlugsa
-  email: texlugsa@gmail.com
-  url: http://www.texlugsa.org/
-author_login: texlugsa
-author_email: texlugsa@gmail.com
-author_url: http://www.texlugsa.org/
-wordpress_id: 62
-wordpress_url: http://www.texlugsa.org/2008/02/11/healthy-baby-and-child-expo-2008/
-date: '2008-02-11 16:42:59 -0600'
-date_gmt: '2008-02-11 21:42:59 -0600'
 categories:
 - Events
 tags: []
-comments: []
 ---
 <p>Another year another Expo... here are the details from the site referenced below.</p>
 <p><strong>When is the Expo?<br />
