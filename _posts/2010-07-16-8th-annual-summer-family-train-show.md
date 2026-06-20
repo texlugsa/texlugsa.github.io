@@ -3,7 +3,7 @@ layout: default
 title: 8th Annual Summer Family Train Show
 categories:
 - Events
-tags: []
+tags: [event]
 ---
 <p>Update: Photos and news coverage from the event!</p>
 <p><a href="http://www.texlugsa.org/gallery/events/20100731-annual-summer-family-train-show/">http://www.texlugsa.org/gallery/events/20100731-annual-summer-family-train-show/</a></p>
