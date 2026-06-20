@@ -1,23 +1,9 @@
 ---
-layout: post
-status: publish
-published: true
+layout: default
 title: Meeting December 11, 2010
-author:
-  display_name: sgarcia
-  login: sgarcia
-  email: sastrei87@yahoo.com
-  url: ''
-author_login: sgarcia
-author_email: sastrei87@yahoo.com
-wordpress_id: 230
-wordpress_url: http://www.texlugsa.org/blog/?p=230
-date: '2010-12-02 13:20:47 -0600'
-date_gmt: '2010-12-02 19:20:47 -0600'
 categories:
 - Meetings
 tags: []
-comments: []
 ---
 <p>Who: Fans of LEGO all ages.<br />
 What: Texas LEGO User Group &ndash; San Antonio Chapter Meeting<br />
