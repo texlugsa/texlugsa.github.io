@@ -1,25 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
+layout: default
 title: Texas Comic Con
-author:
-  display_name: Texas LEGO User Group San Antonio
-  login: texlugsa
-  email: texlugsa@gmail.com
-  url: http://www.texlugsa.org/
-author_login: texlugsa
-author_email: texlugsa@gmail.com
-author_url: http://www.texlugsa.org/
-wordpress_id: 134
-wordpress_url: http://www.texlugsa.org/blog/?p=134
-date: '2010-06-15 01:17:47 -0500'
-date_gmt: '2010-06-15 06:17:47 -0500'
 categories:
 - Events
 - Meetings
 tags: []
-comments: []
 ---
 <p>Texas Comic Con<br />
 June 18th - 20th, 2010<br />
