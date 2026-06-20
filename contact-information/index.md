@@ -21,6 +21,3 @@ tags: []
 
 ### General Inquiries
 - **Email:** [texlugsa@gmail.com](mailto:texlugsa@gmail.com){: class="ms-1 fw-medium text-white link-underline link-underline-opacity-0" }
-
-                </div>
-            </div>
