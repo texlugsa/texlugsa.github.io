@@ -3,7 +3,7 @@ layout: default
 title: April Meeting changed to May Meeting!
 categories:
 - Meetings
-tags: []
+tags: [meeting]
 ---
 <p>Greetings fellow TexLUG-ers,</p>
 <p>Lee and I feel it is high time for a TexLUG meeting with the San Antonio (and New Braunfels) folks. Of course, all TexLUG is invited.</p>
