@@ -2,7 +2,7 @@
 layout: default
 title: November Meeting...
 categories: [meeting]
-tags: []
+tags: [meeting]
 ---
 <p>Hey folks:</p>
 <p>Lee Rahe and I had a smashing idea the other day: TexLUG-SA should meet one last time before the silly season begins, as we don't get a chance to meet again until January or later. This will also be Lee's last opportunity to join us this month.</p>
