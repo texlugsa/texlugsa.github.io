@@ -3,18 +3,6 @@ layout: post
 status: publish
 published: true
 title: Maker Faire Austin 2008
-author:
-  display_name: Texas LEGO User Group San Antonio
-  login: texlugsa
-  email: texlugsa@gmail.com
-  url: http://www.texlugsa.org/
-author_login: texlugsa
-author_email: texlugsa@gmail.com
-author_url: http://www.texlugsa.org/
-wordpress_id: 69
-wordpress_url: http://www.texlugsa.org/blog/?p=69
-date: '2008-10-06 02:06:25 -0500'
-date_gmt: '2008-10-06 07:06:25 -0500'
 categories:
 - Events
 tags:
