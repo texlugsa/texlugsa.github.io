@@ -3,18 +3,6 @@ layout: post
 status: publish
 published: true
 title: Post Maker Faire...
-author:
-  display_name: Chris
-  login: crmacd
-  email: crmacd@gmail.com
-  url: http://www.crmacd.com/
-author_login: crmacd
-author_email: crmacd@gmail.com
-author_url: http://www.crmacd.com/
-wordpress_id: 72
-wordpress_url: http://www.texlugsa.org/blog/?p=72
-date: '2008-10-20 13:26:29 -0500'
-date_gmt: '2008-10-20 18:26:29 -0500'
 categories:
 - Events
 - Notes
