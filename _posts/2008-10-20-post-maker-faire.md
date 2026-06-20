@@ -9,7 +9,6 @@ tags:
 - maker faire
 - space
 - town
-comments: []
 ---
 <p>So it looks like our Maker Faire booth faired pretty well. We won not one but <strong>two</strong> editor choice awards. It also looks like my Apple Store was a huge hit it's generated it's own <a href="http://www.iphonesavior.com/2008/10/lego-city-features-apple-store-at-maker-faire-2008.html">blog posting</a>. I'll upload some photos of it soon. Check out our gallery in the next day or so as photo's begin to rolling in from Maker Faire.</p>
 <p>It was a great event thanks to everyone who came out to support it.</p>
