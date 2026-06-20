@@ -3,7 +3,7 @@ layout: default
 title: Meeting August 3rd, 2008
 categories:
 - Meetings
-tags: []
+tags: [meeting]
 ---
 <p>August 3rd, 2008 @ 2pm<br />
 Chris's House (<a href="http://www.texlugsa.org/meeting-places/">Meeting Places</a>) (<a href="http://www.texlugsa.org/contact-information/">Contact Information</a>)</p>
