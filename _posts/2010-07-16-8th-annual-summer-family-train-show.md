@@ -1,24 +1,9 @@
 ---
-layout: post
-status: publish
-published: true
+layout: default
 title: 8th Annual Summer Family Train Show
-author:
-  display_name: Chris
-  login: crmacd
-  email: crmacd@gmail.com
-  url: http://www.crmacd.com/
-author_login: crmacd
-author_email: crmacd@gmail.com
-author_url: http://www.crmacd.com/
-wordpress_id: 169
-wordpress_url: http://www.texlugsa.org/blog/?p=169
-date: '2010-07-16 14:20:35 -0500'
-date_gmt: '2010-07-16 19:20:35 -0500'
 categories:
 - Events
 tags: []
-comments: []
 ---
 <p>Update: Photos and news coverage from the event!</p>
 <p><a href="http://www.texlugsa.org/gallery/events/20100731-annual-summer-family-train-show/">http://www.texlugsa.org/gallery/events/20100731-annual-summer-family-train-show/</a></p>
