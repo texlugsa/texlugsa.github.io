@@ -1,22 +1,9 @@
 ---
-layout: post
-status: publish
-published: true
+layout: default
 title: New LEGO User
-author:
-  display_name: houghpt
-  login: houghpt
-  email: ''
-  url: ''
-author_login: houghpt
-wordpress_id: 36
-wordpress_url: http://crmacd.biz/texlugsa/2006/06/04/new-lego-user/
-date: '2006-06-04 10:21:39 -0500'
-date_gmt: '2006-06-04 16:21:39 -0500'
 categories:
 - News
 tags: []
-comments: []
 ---
 <p>Sean Luke MacDougald<br />
 Born: June 1st, 2006 7:45AM<br />
