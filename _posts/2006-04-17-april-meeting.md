@@ -1,22 +1,9 @@
 ---
-layout: post
-status: publish
-published: true
+layout: default
 title: April Meeting changed to May Meeting!
-author:
-  display_name: houghpt
-  login: houghpt
-  email: ''
-  url: ''
-author_login: houghpt
-wordpress_id: 35
-wordpress_url: http://crmacd.biz/texlugsa/2006/04/17/april-meeting/
-date: '2006-04-17 08:52:00 -0500'
-date_gmt: '2006-04-17 14:52:00 -0500'
 categories:
 - Meetings
 tags: []
-comments: []
 ---
 <p>Greetings fellow TexLUG-ers,</p>
 <p>Lee and I feel it is high time for a TexLUG meeting with the San Antonio (and New Braunfels) folks. Of course, all TexLUG is invited.</p>
