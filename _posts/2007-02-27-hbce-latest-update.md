@@ -1,9 +1,9 @@
 ---
 layout: default
-title: 'HBCE: Latest Update'
+title: "HBCE: Latest Update"
 categories:
 - Events
-tags: []
+tags: [event]
 ---
 <p><strong>Event Location:</strong><br />
 Henry B. Gonzalez Convention Center, <strong>Hall D</strong><br />
