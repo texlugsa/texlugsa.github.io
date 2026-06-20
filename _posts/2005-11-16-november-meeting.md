@@ -1,21 +1,8 @@
 ---
-layout: post
-status: publish
-published: true
+layout: default
 title: November Meeting...
-author:
-  display_name: houghpt
-  login: houghpt
-  email: ''
-  url: ''
-author_login: houghpt
-wordpress_id: 25
-wordpress_url: http://crmacd.biz/texlugsa/?p=25
-date: '2005-11-16 01:29:00 -0600'
-date_gmt: '2005-11-16 07:29:00 -0600'
 categories: [meeting]
 tags: []
-comments: []
 ---
 <p>Hey folks:</p>
 <p>Lee Rahe and I had a smashing idea the other day: TexLUG-SA should meet one last time before the silly season begins, as we don't get a chance to meet again until January or later. This will also be Lee's last opportunity to join us this month.</p>
