@@ -1,21 +1,8 @@
 ---
-layout: post
-status: publish
-published: true
+layout: default
 title: San Antonio WAHM Expo
-author:
-  display_name: houghpt
-  login: houghpt
-  email: ''
-  url: ''
-author_login: houghpt
-wordpress_id: 22
-wordpress_url: http://crmacd.biz/texlugsa/?p=22
-date: '2005-09-17 11:00:00 -0500'
-date_gmt: '2005-09-17 17:00:00 -0500'
 categories: [event]
 tags: []
-comments: []
 ---
 <p><strong>What:</strong><br />
 San Antonio WAHM Expo<br />
