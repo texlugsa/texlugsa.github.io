@@ -3,7 +3,7 @@ layout: default
 title: Healthy Baby and Child Expo 2008...
 categories:
 - Events
-tags: []
+tags: [event]
 ---
 <p>Another year another Expo... here are the details from the site referenced below.</p>
 <p><strong>When is the Expo?<br />
