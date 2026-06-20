@@ -3,7 +3,7 @@ layout: default
 title: May Meeting...
 categories:
 - Meetings
-tags: []
+tags: [meeting]
 ---
 <p>What: TexLUG Meeting</p>
 <p>When: May 19, 2007 - 1PM</p>
