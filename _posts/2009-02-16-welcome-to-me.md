@@ -3,7 +3,7 @@ layout: default
 title: Welcome! To me...
 categories:
 - Notes
-tags: []
+tags: [introduction]
 ---
 <p>Hello, I'm the <strong>newest</strong> member to the San Antonio LUG! I'm an aspiring AFOL, and I want to grow up to be just like my team members. Let me introduce myself:</p>
 <p>My named is Brandi, and I'm a lego addict. Not recovering...I received two boxes of Lego for Valentines' Day. Before that, I collected the mini lego kits before</p>
