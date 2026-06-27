@@ -27,12 +27,12 @@ title: About
 				<div class="col">
 <h2 class="text-primary-emphasis">What does TexLUG-SA do?</h2>
 
-<div class="ratio ratio-16x9 float-start me-3 mb-2" style="width: 55%;">
+<div class="ratio ratio-16x9 float-start me-3 mb-2" style="width: 40%;">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/M0jEO8ShznA?si=UvEo53pFA9XahX6W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 <p class="lead">
-    The San Antonio chapter of TexLUG does about 16 to 18 events and meetings a year. We work with local groups that need a unique kid friendly activity. We provide conventions and venues a one of a kind display and/or play area for kids of all ages. We can help with large projects if given enough advanced notice. We have worked with museums and events to help provide an educational based play environment. We help corporations with events and have built company logos as time permits. We like to spend weekends setting up massive displays of LEGO organized around a specific, generalized theme (science fiction, castles and fantasy, town and city, etc.). When we are not engaging with the public we show off our individual creations, trade pieces with one another, hold contests of various types, exchange ideas, and circulate news on our favorite hobby. Our current goal is to gradually involve the public more and more in these activities.
+    The San Antonio chapter of TexLUG does about 16 to 18 events and meetings a year. We volunteer locally to provide unique kid-friendly activities. We provide conventions and venues a one of a kind display and/or play area for kids of all ages. We can help with large projects if given enough advanced notice. We have worked with museums and events to help provide educational-based play. We help corporations with events and have built company logos as time permits. We like to spend weekends setting up massive displays of LEGO organized around a specific, generalized theme (science fiction, castles and fantasy, town and city, etc.). When we are not engaging with the public we share our own creations, trade pieces with one another, hold contests of various types, exchange ideas, and circulate news about our favorite hobby. We are committed to meaningful public engagement in our activities.
 </p>
 
 <div class="clearfix">
