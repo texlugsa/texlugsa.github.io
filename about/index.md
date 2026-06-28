@@ -27,7 +27,7 @@ title: About
 				<div class="col">
 <h2 class="text-primary-emphasis">What does TexLUG-SA do?</h2>
 
-<div class="ratio ratio-16x9 float-start me-3 mb-2" style="width: 40%;">
+<div class="ratio ratio-16x9 float-start me-3 mb-2" style="width: 30%;">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/M0jEO8ShznA?si=UvEo53pFA9XahX6W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
